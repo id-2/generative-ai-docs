@@ -26,7 +26,7 @@ pytz = ">=2020.1"
 [tool.poetry.group.dev.dependencies]
 ipython = "^8.13.2"
 pylint = "^2.17.4"
-black = "^23.3.0"
+black = "^24.3.0"
 
 [tool.poetry.group.internal]
 optional = true
